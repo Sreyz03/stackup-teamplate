@@ -20,7 +20,7 @@ logic-ninjas
 [link to video]
 ## How it Works ?
 1. Explaining the working of project
-2. Embed video of project demo
+2. Embed video of the project demo
 ## Libraries used
 Library Name - Version
 ## How to configure
