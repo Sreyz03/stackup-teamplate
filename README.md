@@ -12,8 +12,8 @@ Welcome to Perspective Pages, a cutting-edge web application designed to empower
 
 - **Secure Database:** We understand the importance of data security. Perspective Pages utilizes a secure and reliable database to store user information and blog posts, ensuring that your data is safe and accessible whenever you need it.
 ## Team members
-1. LIYAN C K M [https://github.com/WhiteInfinite]
-2. SREYAS KISHORE T [https://github.com/Sreyz03]
+1.( LIYAN C K M) [https://github.com/WhiteInfinite]
+2. (SREYAS KISHORE T) [https://github.com/Sreyz03]
 ## Team Id
 logic-ninjas
 ## Link to product walkthrough
